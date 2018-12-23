@@ -22,7 +22,7 @@ class Akari : PluginBase(), Listener {
         server.scheduler.scheduleRepeatingTask(
             this,
             { server.broadcastMessage(generateSentence()) },
-            20 * 5
+            20 * 60 * 2
         )
     }
 

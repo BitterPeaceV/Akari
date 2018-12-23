@@ -1,0 +1,7 @@
+name: Akari
+main: com.bpv.akari.Akari
+version: 1.0.0
+api: ["1.0.7"]
+load: POSTWORLD
+author: BitterPeaceV
+description:  わぁいプラグイン あかりプラグイン大好き
